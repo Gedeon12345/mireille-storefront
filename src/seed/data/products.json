@@ -1,0 +1,79 @@
+[
+  { "reference": "TQ-FRN-001", "name": "Plaquettes de frein avant", "brand": "Toyota", "category": "freinage",
+    "description": "Jeu de quatre plaquettes avant à garniture semi-métallique, pour un freinage progressif et un faible bruit.",
+    "imageUrl": "/products/plaquettes-frein-avant.jpg", "imageAlt": "Jeu de plaquettes de frein avant",
+    "priceCents": 5490, "rating": 4.8, "reviewCount": 126, "stockQuantity": 25, "badge": "Nouveau",
+    "compatibility": ["Corolla", "Yaris", "RAV4"], "compatibleBrands": ["Toyota"] },
+
+  { "reference": "TQ-FIL-002", "name": "Filtre à huile", "brand": "Mann-Filter", "category": "filtration",
+    "description": "Filtre à huile à visser, média filtrant haute capacité. À remplacer à chaque vidange.",
+    "imageUrl": "/products/filtre-a-huile.jpg", "imageAlt": "Filtre à huile moteur",
+    "priceCents": 1890, "rating": 4.7, "reviewCount": 214, "stockQuantity": 25,
+    "compatibility": ["Toyota", "Hyundai", "Kia"], "compatibleBrands": ["Toyota", "Hyundai", "Kia"] },
+
+  { "reference": "TQ-ECL-003", "name": "Phare LED universel", "brand": "Osram", "category": "eclairage",
+    "description": "Phare LED avec feux de jour intégrés. Montage universel 12 V, cadre de fixation fourni.",
+    "imageUrl": "/products/phare-led-universel.jpg", "imageAlt": "Phare LED avec bandeau lumineux",
+    "priceCents": 6890, "oldPriceCents": 8890, "rating": 4.5, "reviewCount": 58, "stockQuantity": 3, "badge": "Promo",
+    "compatibility": ["Universel, 12 V"], "compatibleBrands": ["*"] },
+
+  { "reference": "TQ-FRN-004", "name": "Disque de frein ventilé", "brand": "Brembo", "category": "freinage",
+    "description": "Disque ventilé à haute dissipation thermique, vendu à l'unité. Contrôlez le diamètre avant l'achat.",
+    "imageUrl": "/products/disque-frein-ventile.jpg", "imageAlt": "Disque de frein ventilé avec étrier rouge",
+    "priceCents": 4250, "rating": 4.9, "reviewCount": 91, "stockQuantity": 25,
+    "compatibility": ["Peugeot 307", "308", "508"], "compatibleBrands": ["Peugeot"] },
+
+  { "reference": "TQ-SUS-005", "name": "Amortisseur avant", "brand": "Monroe", "category": "suspension",
+    "description": "Amortisseur avant à gaz pour un meilleur maintien de route et un confort retrouvé.",
+    "imageUrl": "/products/amortisseur-avant.jpg", "imageAlt": "Amortisseur avant avec ressort",
+    "priceCents": 7900, "rating": 4.6, "reviewCount": 73, "stockQuantity": 3,
+    "compatibility": ["Hyundai i10", "Kia Picanto"], "compatibleBrands": ["Hyundai", "Kia"] },
+
+  { "reference": "TQ-ELE-006", "name": "Batterie 12 V 60 Ah", "brand": "Bosch", "category": "electricite",
+    "description": "Batterie 12 V 60 Ah sans entretien, adaptée aux berlines et SUV compacts.",
+    "imageUrl": "/products/batterie-12v-60ah.jpg", "imageAlt": "Batterie de voiture 12 volts",
+    "priceCents": 10390, "oldPriceCents": 11490, "rating": 4.7, "reviewCount": 167, "stockQuantity": 25, "badge": "Promo",
+    "compatibility": ["Berlines et SUV compacts"], "compatibleBrands": ["*"] },
+
+  { "reference": "TQ-MOT-007", "name": "Bougies d'allumage (jeu de 4)", "brand": "NGK", "category": "moteur",
+    "description": "Jeu de quatre bougies pour moteurs essence : démarrages plus francs et combustion régulière.",
+    "imageUrl": "/products/bougies-allumage.jpg", "imageAlt": "Bougie d'allumage",
+    "priceCents": 2750, "rating": 4.6, "reviewCount": 143, "stockQuantity": 25,
+    "compatibility": ["Corolla", "Yaris", "Nissan Micra"], "compatibleBrands": ["Toyota", "Nissan"] },
+
+  { "reference": "TQ-PNE-008", "name": "Pneu 205/55 R16", "brand": "Michelin", "category": "pneumatiques",
+    "description": "Pneu tourisme 205/55 R16 : bonne adhérence sur sol sec et mouillé, longue durée de vie.",
+    "imageUrl": "/products/pneu-205-55-r16.jpg", "imageAlt": "Pneu de voiture",
+    "priceCents": 9490, "rating": 4.8, "reviewCount": 88, "stockQuantity": 25, "badge": "Nouveau",
+    "compatibility": ["Golf", "Focus", "Corolla"], "compatibleBrands": ["Volkswagen", "Ford", "Toyota"] },
+
+  { "reference": "TQ-CLI-009", "name": "Filtre d'habitacle", "brand": "Bosch", "category": "climatisation",
+    "description": "Filtre d'habitacle plissé qui retient poussières et pollens et garde la climatisation efficace.",
+    "imageUrl": "/products/filtre-habitacle.jpg", "imageAlt": "Filtre d'habitacle plissé",
+    "priceCents": 1450, "rating": 4.4, "reviewCount": 67, "stockQuantity": 25,
+    "compatibility": ["Peugeot 307", "508", "Hyundai Tucson"], "compatibleBrands": ["Peugeot", "Hyundai"] },
+
+  { "reference": "TQ-FRN-010", "name": "Plaquettes de frein arrière", "brand": "Brembo", "category": "freinage",
+    "description": "Jeu de plaquettes arrière à faible poussière, avec témoin d'usure.",
+    "imageUrl": "/products/plaquettes-frein-arriere.jpg", "imageAlt": "Jeu de plaquettes de frein arrière",
+    "priceCents": 4400, "rating": 4.7, "reviewCount": 54, "stockQuantity": 25,
+    "compatibility": ["Peugeot 308", "Golf"], "compatibleBrands": ["Peugeot", "Volkswagen"] },
+
+  { "reference": "TQ-SUS-011", "name": "Amortisseur arrière", "brand": "Monroe", "category": "suspension",
+    "description": "Amortisseur arrière à gaz. Remplacement conseillé par paire pour garder une tenue de route équilibrée.",
+    "imageUrl": "/products/amortisseur-arriere.jpg", "imageAlt": "Amortisseur arrière avec ressort",
+    "priceCents": 7000, "oldPriceCents": 7790, "rating": 4.5, "reviewCount": 61, "stockQuantity": 3, "badge": "Promo",
+    "compatibility": ["Corolla", "Yaris"], "compatibleBrands": ["Toyota"] },
+
+  { "reference": "TQ-ELE-012", "name": "Batterie 12 V 70 Ah", "brand": "Varta", "category": "electricite",
+    "description": "Batterie 12 V 70 Ah à fort courant de démarrage, pour véhicules équipés de nombreux accessoires.",
+    "imageUrl": "/products/batterie-12v-70ah.jpg", "imageAlt": "Batterie de voiture 12 volts 70 Ah",
+    "priceCents": 12490, "rating": 4.8, "reviewCount": 79, "stockQuantity": 25,
+    "compatibility": ["SUV et pick-up"], "compatibleBrands": ["*"] },
+
+  { "reference": "TQ-ECL-013", "name": "Feux arrière LED", "brand": "Hella", "category": "eclairage",
+    "description": "Bloc de feux arrière à LED, plus lumineux et plus durable que les ampoules classiques.",
+    "imageUrl": "/products/feux-arriere-led.jpg", "imageAlt": "Bloc optique arrière LED",
+    "priceCents": 5790, "rating": 4.3, "reviewCount": 41, "stockQuantity": 3, "badge": "Nouveau",
+    "compatibility": ["Corolla", "Micra", "Hyundai i10"], "compatibleBrands": ["Toyota", "Nissan", "Hyundai"] }
+]

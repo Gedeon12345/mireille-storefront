@@ -1,0 +1,25 @@
+{
+  "name": "torque-backend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "API de la boutique de pièces automobiles Torque",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "dev": "node --watch --env-file=.env src/server.js",
+    "start": "node src/server.js",
+    "seed": "node --env-file=.env src/seed/seed.js",
+    "make-admin": "node --env-file=.env src/scripts/make-admin.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.0",
+    "morgan": "^1.10.0",
+    "zod": "^3.25.0"
+  }
+}

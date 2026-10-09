@@ -1,0 +1,10 @@
+[
+  { "slug": "freinage", "name": "Freinage", "description": "Plaquettes, disques, étriers", "icon": "Disc3", "order": 1 },
+  { "slug": "moteur", "name": "Moteur", "description": "Courroies, joints, bougies", "icon": "Cog", "order": 2 },
+  { "slug": "suspension", "name": "Suspension", "description": "Amortisseurs, ressorts, rotules", "icon": "ArrowDownUp", "order": 3 },
+  { "slug": "electricite", "name": "Électricité", "description": "Batteries, alternateurs", "icon": "Zap", "order": 4 },
+  { "slug": "eclairage", "name": "Éclairage", "description": "Phares, feux, ampoules", "icon": "Lightbulb", "order": 5 },
+  { "slug": "climatisation", "name": "Climatisation", "description": "Compresseurs, filtres", "icon": "Snowflake", "order": 6 },
+  { "slug": "filtration", "name": "Filtration", "description": "Huile, air, carburant", "icon": "Wind", "order": 7 },
+  { "slug": "pneumatiques", "name": "Pneumatiques", "description": "Pneus, jantes, valves", "icon": "CircleDot", "order": 8 }
+]
